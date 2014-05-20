@@ -1,0 +1,8 @@
+*.vapi
+*.typelib
+*.gir
+*.so
+*.o
+*.h
+build
+*~
